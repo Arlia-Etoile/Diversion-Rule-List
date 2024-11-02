@@ -1,2 +1,2 @@
-# Loon-Rule-List
-Rule for Loon
+# Diversion-Rule-List
+Rule for Loon&Qx
