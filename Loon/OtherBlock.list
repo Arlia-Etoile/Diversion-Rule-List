@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,adjust.world
 DOMAIN,mdn.alipayobjects.com/ad_mgr/
 IP-CIDR6,2408:8710:1020:fd00:3::3ed
 IP-CIDR6,2408:8710:20:1171:3::3f2
+DOMAIN-SUFFIX,mbs.boc.cn
+DOMAIN-SUFFIX,openapi.boc.cn
