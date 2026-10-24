@@ -17,6 +17,8 @@ lambda.fivem.net
 sentry.fivem.net
 status.fivem.net
 trial.dlsite.com
++.dota2.com
++.valve.net
 crashes.fivem.net
 mirrors.fivem.net
 netdata.fivem.net
@@ -127,6 +129,7 @@ gog-cdn-fastly-cp77.gog.com
 riot-client.dyn.riotcdn.net
 +.st.dl.bscstorage.net
 +.steam.eca.qtlglb.com
++.steamconnecttest.com
 +.unrealtournament.com
 bacon.secure.dyn.riotcdn.net
 object-web.blue-protocol.com
